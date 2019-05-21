@@ -1,0 +1,19 @@
+c:\users\привет\documents\visual studio 2015\Projects\graphlab\graphlab\bin\Debug\graphlab.exe.config
+c:\users\привет\documents\visual studio 2015\Projects\graphlab\graphlab\obj\Debug\graphlab.csprojResolveAssemblyReference.cache
+c:\users\привет\documents\visual studio 2015\Projects\graphlab\graphlab\obj\Debug\graphlab.Form1.resources
+c:\users\привет\documents\visual studio 2015\Projects\graphlab\graphlab\obj\Debug\graphlab.Properties.Resources.resources
+c:\users\привет\documents\visual studio 2015\Projects\graphlab\graphlab\obj\Debug\graphlab.csproj.GenerateResource.Cache
+c:\users\привет\documents\visual studio 2015\Projects\graphlab\graphlab\bin\Debug\graphlab.exe
+c:\users\привет\documents\visual studio 2015\Projects\graphlab\graphlab\bin\Debug\graphlab.pdb
+c:\users\привет\documents\visual studio 2015\Projects\graphlab\graphlab\obj\Debug\graphlab.exe
+c:\users\привет\documents\visual studio 2015\Projects\graphlab\graphlab\obj\Debug\graphlab.pdb
+C:\Users\user\Desktop\graphlab\graphlab\bin\Debug\graphlab.exe.config
+C:\Users\user\Desktop\graphlab\graphlab\bin\Debug\graphlab.exe
+C:\Users\user\Desktop\graphlab\graphlab\bin\Debug\graphlab.pdb
+C:\Users\user\Desktop\graphlab\graphlab\obj\Debug\graphlab.csprojAssemblyReference.cache
+C:\Users\user\Desktop\graphlab\graphlab\obj\Debug\graphlab.Form1.resources
+C:\Users\user\Desktop\graphlab\graphlab\obj\Debug\graphlab.Properties.Resources.resources
+C:\Users\user\Desktop\graphlab\graphlab\obj\Debug\graphlab.csproj.GenerateResource.cache
+C:\Users\user\Desktop\graphlab\graphlab\obj\Debug\graphlab.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\graphlab\graphlab\obj\Debug\graphlab.exe
+C:\Users\user\Desktop\graphlab\graphlab\obj\Debug\graphlab.pdb
